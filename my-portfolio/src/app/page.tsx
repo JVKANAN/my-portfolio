@@ -13,7 +13,7 @@ export default function Home() {
         />
       </div>
       <div>
-        <h1>Hi, i'M João Vitor🏴‍☠️</h1>
+        <h1>Hi, i'M João Vitor</h1>
         <h2>Hacker</h2>
       </div>
       <div className="experience">
