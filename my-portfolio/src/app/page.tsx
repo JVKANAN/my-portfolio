@@ -13,7 +13,7 @@ export default function Home() {
         />
       </div>
       <div>
-        <h1>Hi, i'M João Vitor</h1>
+        <h1>Hi, i'm João Vitor</h1>
         <h2>Hacker</h2>
       </div>
       <div className="experience">
@@ -29,7 +29,16 @@ export default function Home() {
           <span>PT-BR - Native Speaker</span>
           </div>
           <h3>Education</h3>
-          <span></span>
+          <div className="educational-info">
+            <span>🎓</span>
+            <span>Information Systems Bachelors Degree - Universidade Federal da Paraíba</span>
+          </div>
+        </div>
+        <div className="buttons">
+          <div className="social">
+
+          </div>
+          <button>contact me</button>
         </div>
       </div>
     </main>
