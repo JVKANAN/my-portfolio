@@ -3,19 +3,7 @@ import Image from 'next/image'
 export default function Home() {
   return (
     <main>
-      <div className="header">
-      <Image
-        src="/vercel.svg"
-        alt="Vecel Logo"
-        width={100}
-        height={24}
-        priority
-        />
-      </div>
-      <div>
-        <h1>Hi, i'm João Vitor</h1>
-        <h2>Hacker</h2>
-      </div>
+     
       <div className="experience">
         <h3>Experience</h3>
         <p>1 year working in the area of information security at the company CODATA through the AYTY research laboratory at UFPB</p>
