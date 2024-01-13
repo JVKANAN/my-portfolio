@@ -1,0 +1,15 @@
+.hearder{
+    display:flex;
+    flex-direction: column;
+
+    h1 {
+        font-weight: 600;
+        font-size: 36;
+        line-height: 54;
+    }
+
+    @media(min-width: 768px){
+        flex-direction: row-reverse;
+    }
+}
+
